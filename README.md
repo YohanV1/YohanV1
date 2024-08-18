@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
   <img src="https://github.com/YohanV1/YohanV1/blob/main/Github%20Profile%20Header%20(1).png" alt="GitHub Profile Header">
 
   <a href="https://git.io/typing-svg">
