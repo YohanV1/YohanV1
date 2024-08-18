@@ -1,9 +1,11 @@
-<div align="left">
-  <img src="https://github.com/YohanV1/YohanV1/blob/main/Github%20Profile%20Header%20(1).png" alt="GitHub Profile Header">
+# 🧑🏻‍💻 Yohan Vergis Vinu
 
-  <div style="padding-left: 22px;">
-    <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=500&pause=1000&color=010101&background=transparent&center=true&vCenter=true&random=true&width=465&lines=Final+Year+CS+Undergraduate+%40+SRM+IST;Machine+Learning+Engineer+(LLMOps+%26+MLOps);Multimodal+AI++(Vision+%2B+Language)+Researcher;Fingerstyle+Guitarist;Tennis+Player;Chess+Enthusiast">
-    </a>
-  </div>
-</div>
+**`Machine Learning Research Engineer (LLMOps/MLOps/VLMs)`**
+
+I'm a final-year Computer Science undergraduate at SRM Institute of Science and Technology. With hands-on experience from a research internship at Samsung R&D, where I led a computer vision project, and my current role at Moative focusing on applied AI and LLM-related tasks, I've developed a strong interest in multimodal (vision + language) and LLM-based applications. I aim to further this knowledge through a master's degree. Outside of academics, I'm passionate about fingerstyle guitar, tennis, and chess. I'm also a dog enthusiast and proud owner of a Rottweiler!
+
+<p>
+  <a href="https://www.linkedin.com/in/yohanvinu/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:yohanvvinu@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail"></a>
+  ![Profile Views](https://komarev.com/ghpvc/?username=YohanV1&color=blue&style=for-the-badge)
+</p>
