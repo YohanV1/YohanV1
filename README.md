@@ -11,10 +11,6 @@ Outside of academics, I'm passionate about fingerstyle guitar, tennis, and chess
 </p>
 
 ---
-### Top Programming Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YohanV1&layout=compact&theme=dark)
-
----
 ### Skills
 
 **Languages:**  
