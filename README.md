@@ -1,5 +1,5 @@
 # 🧑🏻‍💻 Yohan Vergis Vinu
-**`Machine Learning Research Engineer (LLMOps/MLOps/VLMs)`**
+**`Machine Learning Engineer & Researcher (LLMOps/MLOps/VLMs)`**
 
 I'm a final-year Computer Science undergraduate at SRM Institute of Science and Technology. With hands-on experience from a research internship at Samsung R&D, where I led a computer vision project, and my current role at Moative focusing on applied AI and LLM-related tasks, I've developed a strong interest in multimodal (vision + language) and LLM-based applications. I aim to further this knowledge through a master's degree. 
 
